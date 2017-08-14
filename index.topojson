@@ -5,13 +5,13 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [   289.366932,    -33.441592     ]
+        "coordinates": [   288.2761019,    -35.4260164  ]
       },
       "properties": {
       "name": "Chancho Muerto - Talca"
       "fono": "+569",
-		  "email": "@",
-		  "tema": "matanza invernal del chancho"
+      "email": "@",
+     "tema": "matanza invernal del chancho"
       }
     },
 
