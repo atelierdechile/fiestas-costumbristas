@@ -8,7 +8,8 @@
         "coordinates": [       289.366932,       -33.441592      ]
       },
       "properties": {
-        "name": "Original Green Roasters"
+        "name": "Original Green Roasters",
+        "URL": "<a href=http://www.semillas1.cl> Talca </a>"
       }
     },
    {
@@ -19,6 +20,7 @@
       },
       "properties": {
         "name": "Café Altura",
+	        "URL": "<a href=http://www.semillas2.cl> Talca </a>",
 		"fono": "+569",
 		"email": "@",
 		"panes": "café de especialidad"
@@ -33,6 +35,7 @@
       },
       "properties": {
         "name": "Café Intenzzo",
+	"URL": "<a href=http://www.semillas4.cl> Talca </a>",
 	"fono": "+569",
 	"email": "@",
 	"café": "café de especialidad"
