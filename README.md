@@ -1,3 +1,6 @@
-# fiestas-costumbristas
+# rural-cultural
+<br>
 Un mapa de fiestas costumbristas en Chile, en progreso
-Un mapa de lugares de turismo rural: referencias de Tierra Adentro, INDAP
+<br>
+Un mapa de lugares de turismo rural: referencias de Tierra Adentro, INDAP, SERCOTEC, Recomiendo Chile
+<br>
