@@ -24,6 +24,7 @@
         "name": "Fiesta 4",
 	"fono": "+569",
 	"fecha": "@",
+	"URL": "<a href=http://www.chile1.cl> Talca </a>",
 	"tema": "café de especialidad"
       }
   },
@@ -34,6 +35,7 @@
       },
    "properties": {
    "name": "Fiesta 3",
+   "URL": "<a href=http://www.chile3.cl> Talca </a>",
    "fono": "+569",
    "fecha": "@",
    "tema": "café de especialidad"
