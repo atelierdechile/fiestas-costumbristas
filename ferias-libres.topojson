@@ -4,7 +4,7 @@
 [
     {"type": "Feature",
      "geometry": {"type": "LineString",   "coordinates": [[287.3123762, -39.1002406], [287.4123770, -39.2002410]]   },
-     "paint": {  "line-color": "#888",  "line-width": 50  },
+     "paint": {  "line-color": "#888",  "line-width": 200  },
      "properties": {
        "name": "San Camilo",
        "fono": "+569",
