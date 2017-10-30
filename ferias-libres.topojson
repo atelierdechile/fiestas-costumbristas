@@ -3,11 +3,11 @@
   "features": 
 [
     {"type": "Feature",
-     "geometry": {"type": "Point",   "coordinates": [   287.3123762,    -39.1002406  ]   },
+     "geometry": {"type": "LineString",   "coordinates": [[287.3123762, -39.1002406], [287.3123770, -39.1002410] ]   },
      "properties": {
-       "name": "Taller VICSON",
+       "name": "San Camilo",
        "fono": "+569",
-       "fecha": "Agosto",
+       "días": "miércoles, viernes",
        "URL": "<a href=http://www.talca.cl> Talca </a>",
        "email": "ceramicavicson@gmail.com",
        "material": "maderao"
