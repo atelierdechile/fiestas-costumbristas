@@ -7,3 +7,5 @@ Un mapa de lugares de turismo rural: referencias de Tierra Adentro, INDAP, SERCO
 Un mapa de semillas, en base a http://www.chilesustentable.net/wp-content/uploads/2016/09/Catalogo-de-Semillas-Tradicionales-de-Chile.pdf
 <br>
 Un mapa de artesanías, en base a http://www.artesania.uc.cl/
+<br>
+Un mapa de ferias libres, basado en http://www.asof.cl/apps/mapaferias/rm.php 
