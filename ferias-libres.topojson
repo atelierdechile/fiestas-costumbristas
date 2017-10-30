@@ -1,1 +1,33 @@
-hello world
+{
+  "type": "FeatureCollection",
+  "features": 
+[
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [   287.3123762,    -39.1002406  ]
+      },
+      "properties": {
+      "name": "Taller VICSON",
+      "fono": "+569",
+      "fecha": "Agosto",
+      "URL": "<a href=http://www.talca.cl> Talca </a>",
+      "email": "ceramicavicson@gmail.com",
+      "material": "maderao"
+      }
+   },
+  {"type": "Feature",
+   "geometry": {
+   "type": "Point",
+   "coordinates": [      289.3299505,     -33.4456397     ]
+      },
+   "properties": {
+   "name": "Fiesta 3",
+   "URL": "<a href=http://www.chile3.cl> Talca </a>",
+   "fono": "+569",
+   "fecha": "@",
+   "tema": "café de especialidad"
+     }
+   }
+  ]
+}
