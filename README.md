@@ -1,8 +1,8 @@
 # rural-cultural
 <br>
-Un mapa de fiestas costumbristas en Chile, en progreso
+Un mapa de fiestas costumbristas y tradiciones culturales de Chile (en progreso)
 <br>
-Un mapa de lugares de turismo rural: referencias de Tierra Adentro, INDAP, SERCOTEC, Recomiendo Chile
+Un mapa de lugares de turismo rural: referencias de Tierra Adentro, INDAP, SERCOTEC, Recomiendo Chile, Chile Ancho (R. Astorga)
 <br>
 Chile Ancho, http://www.tvn.cl/programas/chileancho/capitulos/
 <br>
