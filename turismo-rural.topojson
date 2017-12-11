@@ -11,6 +11,7 @@
       "name": "Chancho Muerto - Talca",
       "fono": "+569",
       "fecha": "Agosto",
+      "origen": "Otros"      
       "tema": "matanza invernal del chancho"
       }
    },
@@ -20,10 +21,11 @@
      "coordinates": [ 289.4057966, -33.432204   ]
       },
       "properties": {
-        "name": "Fiesta 4",
+        "name": "Medialuna El Pedregal (cambiar coordenadas)",
 	"fono": "+569",
 	"fecha": "@",
-	"tema": "café de especialidad"
+	"origen": "TVEN Chile Ancho"      
+	"tema": "construcción colaborativa de medialuna "
       }
   },
   {"type": "Feature",
