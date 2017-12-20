@@ -1,27 +1,8 @@
-{
-  "type": "FeatureCollection",
-  "features": 
-[
-    {"type": "Feature",
-     "geometry": {"type": "Point",   "coordinates": [   287.3123762,    -39.1002406  ]   },
-     "properties": {
-       "name": "Taller VICSON",
-       "fono": "+569",
-       "fecha": "Agosto",
-       "URL": "<a href=http://www.gorbea.cl> Gorbea </a>",
-       "email": "ceramicavicson@gmail.com",
-       "material": "maderao"
-      }
-    },
-    {"type": "Feature",
-     "geometry": {"type": "Point",   "coordinates": [      289.3299505,     -33.4456397     ]   },
-     "properties": {
-     "name": "Talabartero Juan Acosta",
-     "URL": "<a href=http://acostalabartero.blogspot.cl> Blog Juan Acosta </a>",
-     "fono": "+569",
-     "fecha": "@",
-     "tema": "café de especialidad"
-     }
-   }
-  ]
+{ "type": "FeatureCollection",
+"features": [
+
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.3236941, -39.1025837]},"properties": {"Artesano": "Víctor", "Empresa": "Taller VICSON", "Direccion": "OHiggins 465, Gorbea ", "Telefono": "56 45 490045 ", "Sitio web": "http://ceramicavicson.blogspot.cl/ ", "Materia prima": "Cerámica"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.3539319, -33.050631]},"properties": {"Artesano": "Juan Acosta", "Empresa": "Talabartero Juan Acosta", "Direccion": "Valparaiso ", "Telefono": " 56 32 2621584 ", "Sitio web": "http://acostalabartero.blogspot.cl/ ", "Materia prima": "Cuero"} }
+  ]  
 }
+
