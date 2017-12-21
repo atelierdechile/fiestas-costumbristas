@@ -12,4 +12,4 @@ Un mapa de artesanías, en base a http://www.artesania.uc.cl/muestra-artesania-u
 <br>
 Un mapa de ferias libres, basado en http://www.asof.cl/apps/mapaferias/rm.php 
 <br>
-Data generada en Google Drive - Rural Cutural
+Data generada en Google Drive -> Githubs -> Rural Cutural
