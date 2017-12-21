@@ -11,3 +11,5 @@ Un mapa de semillas, en base a http://www.chilesustentable.net/wp-content/upload
 Un mapa de artesanías, en base a http://www.artesania.uc.cl/muestra-artesania-uc-2016/artesanos-presentes/
 <br>
 Un mapa de ferias libres, basado en http://www.asof.cl/apps/mapaferias/rm.php 
+<br>
+Data generada en Google Drive - Rural Cutural
