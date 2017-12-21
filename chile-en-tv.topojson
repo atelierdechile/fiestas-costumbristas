@@ -1,6 +1,6 @@
 { "type": "FeatureCollection",
 "features": [
 
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3647419, -33.4414877]},"properties": {"Programa": "Chile Ancho: Caleta Camarones", "canal": "TVN", "URL": "http://www.tvn.cl/programas/chileancho/capitulos/el-desafio-de-los-habitantes-en-caleta-camarones-2553455"} }
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.71293160, -19.19640360]},"properties": {"Programa": "Chile Ancho: Caleta Camarones", "canal": "TVN", "URL": "http://www.tvn.cl/programas/chileancho/capitulos/el-desafio-de-los-habitantes-en-caleta-camarones-2553455"} }
   ]  
 }
