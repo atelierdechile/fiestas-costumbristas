@@ -3,5 +3,5 @@
 
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.1491904, -32.7670286]},"properties": {"name": "Ají boina del fraile", "direccion": "Panquehue"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.7940232, -32.7866482]},"properties": {"name": "Ají pimiento pequeño", "direccion": "Calera de Tango, RM"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3428349, -32.8778505]},"properties": {"name": "Ají rugoso largo", "direccion": ""} }
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3428349, -32.8778505]},"properties": {"name": "Ají rugoso largo", "direccion": "Catemu"} }
   ]  }
