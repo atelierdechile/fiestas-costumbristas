@@ -1,6 +1,6 @@
 # rural-cultural
 <br>
-Ideas en camnio:
+Ideas en camino:
 <br>
 Un mapa de fiestas costumbristas y tradiciones culturales de Chile (en progreso)
 <br>
