@@ -1,6 +1,10 @@
 { "type": "FeatureCollection",
 "features": [
 
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.71293160, -19.19640360]},"properties": {"Programa": "Chile Ancho: Caleta Camarones", "canal": "TVN", "URL": "http://www.tvn.cl/programas/chileancho/capitulos/el-desafio-de-los-habitantes-en-caleta-camarones-2553455"} }
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.71293160, -19.19640360]},
+ "properties": {"Programa": "Chile Ancho: Caleta Camarones", "canal": "TVN", "URL": "http://www.tvn.cl/programas/chileancho/capitulos/el-desafio-de-los-habitantes-en-caleta-camarones-2553455"} },
+  
+  {'type': 'Feature', 'geometry': { 'type': 'Point', 'coordinates': [286.6040152, -39.7256339]},'properties': {'Programa': 'Recomiendo Chile: Costa Valdiviana', 'Temporada': '11', 'Capítulo': '4', 'canal': 'C13', 'URL': 'http://www.13.cl/programas/sabado-de-reportajes/recomiendo-chile/recomiendo-chile-capitulo-4-temporada-11-costa'} }
+  
   ]  
 }
