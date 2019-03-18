@@ -1,8 +1,8 @@
 { "type": "FeatureCollection",
 "features": [
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3647419, -33.4414877]},"properties": {"Nombre Evento": "Fiesta Chancho Muerto", "Dirección": "Talca ", "Telefono": " ", "Sitio web": " ", "Materia prima": "Gastronomía"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.3236941, -39.1025837]},"properties": {"Nombre Evento": "Expo Mimbre", "Dirección": "Chimbarongo ", "Telefono": " ", "Sitio web": " ", "Materia prima": "Artesanía"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.3539319, -33.050631]},"properties": {"Nombre Evento": "Feria", "Dirección": "Chillán ", "Telefono": " ", "Sitio web": " ", "Materia prima": "Otro"} }
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.2946351, -35.4528504]},"properties": {"Nombre Evento": "Fiesta Chancho Muerto", "Dirección": "Talca ", "Telefono": " ", "Sitio web": " ", "Materia prima": "Gastronomía"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.9437721, -34.7232068]},"properties": {"Nombre Evento": "Expo Mimbre", "Dirección": "Chimbarongo, Colchagua ", "Telefono": " ", "Sitio web": " ", "Materia prima": "Artesanía"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.8506311, -36.6427323]},"properties": {"Nombre Evento": "Feria", "Dirección": "Chillán ", "Telefono": " ", "Sitio web": " ", "Materia prima": "Otro"} }
 
   ]  
 }
