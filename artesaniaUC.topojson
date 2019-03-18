@@ -2,7 +2,7 @@
 "features": [
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.773874619709, -39.3003264802915]},"properties": {"Artesano": "Hector Bascuñan", "Empresa/Marca": "Artesanía", "Direccion": "Lago Las Rocas 2100, Villarrica, Chile ", "Telefono": "56 9 89034185 ", "Sitio web": " ", "Materia prima": "Madera"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.326722519709, -39.1039368802915]},"properties": {"Artesano": "Víctor", "Empresa/Marca": "Taller VICSON", "Direccion": "OHiggins 465, Gorbea, Chile ", "Telefono": "56 45 490045 ", "Sitio web": "http://ceramicavicson.blogspot.cl/ ", "Materia prima": "Cerámica"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [272.890629, 41.4388139]},"properties": {"Artesano": "Juan Acosta", "Empresa/Marca": "Talabartero Juan Acosta", "Direccion": "Valparaiso ", "Telefono": " 56 32 2621584 ", "Sitio web": "http://acostalabartero.blogspot.cl/ ", "Materia prima": "Cuero"} }
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.3376713, -33.0835991]},"properties": {"Artesano": "Juan Acosta", "Empresa/Marca": "Talabartero Juan Acosta", "Direccion": "Valparaiso ", "Telefono": " 56 32 2621584 ", "Sitio web": "http://acostalabartero.blogspot.cl/ ", "Materia prima": "Cuero"} }
 
   ]  
 }
