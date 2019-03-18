@@ -18,14 +18,14 @@
    { "type": "Feature",
      "geometry": {
      "type": "Point",
-     "coordinates": [ 289.4057966, -33.432204   ]
+     "coordinates": [ 288.9416616, -34.7055509   ]
       },
       "properties": {
-        "name": "Fiesta 4",
+        "name": "Expo Mimbre",
 	"fono": "+569",
 	"fecha": "@",
-	"URL": "<a href=http://www.chile1.cl> Talca </a>",
-	"tema": "café de especialidad"
+	"URL": "<a href=http://www.expomimbre.cl> ExpoMimbre </a>",
+	"tema": "productos en base a mimbre, música"
       }
   },
   {"type": "Feature",
