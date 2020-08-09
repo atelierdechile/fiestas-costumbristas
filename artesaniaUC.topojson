@@ -66,7 +66,6 @@
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.034575019709, -34.4972090802915]},"properties": {"Artesano": "", "Empresa/Taller/Centro": "Artesanías Los Aromos", "Direccion": "Pañul ", "Telefono": " ", "Sitio web": " ", "Materia prima": ""} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [286.58113, -40.5195983]},"properties": {"Artesano": "Olga Cárdenas", "Empresa/Taller/Centro": "", "Direccion": "San Juan de la Costa ", "Telefono": " ", "Sitio web": " ", "Materia prima": ""} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.3155208, -36.8327188]},"properties": {"Artesano": "", "Empresa/Taller/Centro": "Agrupación Artesanas Quebrada Las Ulloa", "Direccion": "Florida, Bío Bío ", "Telefono": " ", "Sitio web": " ", "Materia prima": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [360, error]},"properties": {"Artesano": "", "Empresa/Taller/Centro": "Unión de Artesanos de Quinchamalí", "Direccion": "Quinchamalí ", "Telefono": " ", "Sitio web": " ", "Materia prima": ""} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [286.3734454, -43.121901]},"properties": {"Artesano": "Irenia Raimapo", "Empresa/Taller/Centro": "", "Direccion": "Quellón ", "Telefono": " ", "Sitio web": " ", "Materia prima": ""} }
 ]
 }
